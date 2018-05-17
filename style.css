@@ -1,0 +1,13 @@
+/*style for body tag*/
+body {
+    background-color: lightgrey;
+}
+
+/*style for body first paragraph*/
+.para1{
+    color: purple;
+}
+/*style for body second paragraph*/
+.para2{
+    color: red;
+}
